@@ -42,7 +42,7 @@ Expert at identifying manual operational bottlenecks and building automated VBA 
 
 #### 🛠️ The Solution
 * **Centralized Macro-Based Intake:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
-* **Automated Workflow Logging:** Integrated script logic to automatically assign tracking IDs, update status logs, and reconcile completed requests against bank statements.
+* **Automated Workflow Logging:** Integrated script logic to automatically assign tracking IDs and update status logs.
 
 #### 📈 Business Impact
 * **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
