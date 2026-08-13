@@ -6,7 +6,7 @@
 ## 🚀 Professional Overview
 Senior treasury professional with extensive international experience managing global liquidity, corporate banking portals, and multi-entity funding structures. 
 
-Expert at identifying manual operational bottlenecks and engineering robust, automated data-flow solutions to mitigate financial risk and accelerate audit readiness.
+Expert at identifying manual operational bottlenecks and building automated VBA tools to streamline treasury operations to mitigate financial risk and accelerate audit readiness.
 
 ---
 
@@ -28,7 +28,7 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 #### 📈 Business Impact
 * **Efficiency:** Transformed the execution of **40 individual payments totalling $8.5M USD** from hours of manual portal entry into an automated batch upload completed in minutes.
 * **Risk Mitigation:** Achieved a zero operational error rate on major international disbursements by enforcing automated data validation on all beneficiary records prior to bank execution.
-* **Strengthened Controls:** Standardized the workflow, providing internal and external auditors with an exact, tamper-proof trace from source template to bank settlement.
+* **Strengthened Controls:** Standardized the workflow, providing internal and external auditors with an exact, auditable trace from source template to bank settlement.
 
 ---
 
@@ -42,6 +42,7 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 
 #### 🛠️ The Solution
 * **Centralized Macro-Based Intake:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
+* **Automated Workflow Logging:** Integrated script logic to automatically assign tracking IDs, update status logs, and reconcile completed requests against bank statements.
 
 #### 📈 Business Impact
 * **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
