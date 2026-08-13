@@ -1,5 +1,5 @@
-# Fernando Sifuentes Loo | Senior Corporate Treasury & Finance Portfolio
-📍 Toronto, ON | Global Cash Management & Process Automation Specialist
+# Fernando Sifuentes Loo | Treasury Automation & Systems Portfolio 2025 - 2026
+📍 Toronto, ON
 
 ---
 
@@ -9,8 +9,6 @@ Senior treasury professional with extensive international experience managing gl
 Expert at identifying manual operational bottlenecks and engineering robust, automated data-flow solutions to mitigate financial risk and accelerate audit readiness.
 
 ---
-
-## 🛠️ Featured Treasury Projects 2025 - 2026
 
 ### 1. Global Bulk Payment Automation & Control Framework
 * **Account Scope:** Citi-US-USD Corporate Account
