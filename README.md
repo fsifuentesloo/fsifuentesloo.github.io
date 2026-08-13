@@ -1,4 +1,4 @@
-# [Fernando Sifuentes Loo] | Senior Corporate Treasury & Finance Portfolio
+# Fernando Sifuentes Loo | Senior Corporate Treasury & Finance Portfolio
 📍 Toronto, ON | Global Cash Management & Process Automation Specialist
 
 ---
