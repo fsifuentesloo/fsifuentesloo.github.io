@@ -44,7 +44,6 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 
 #### 🛠️ The Solution
 * **Centralized Intake & Parsing Engine:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
-* **Automated Workflow Tracking:** Integrated macro tools to instantly log, reconcile, and monitor the lifecycle of customer refunds and internal transfers from request to completion.
 
 #### 📈 Business Impact
 * **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
