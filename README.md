@@ -4,7 +4,8 @@
 ---
 
 ## 🚀 Professional Overview
-Senior treasury professional with extensive international experience managing global liquidity, corporate banking portals, and multi-entity funding structures. Expert at identifying manual operational bottlenecks and engineering robust, automated data-flow solutions to mitigate financial risk and accelerate audit readiness.
+Senior treasury professional with extensive international experience managing global liquidity, corporate banking portals, and multi-entity funding structures. 
+Expert at identifying manual operational bottlenecks and engineering robust, automated data-flow solutions to mitigate financial risk and accelerate audit readiness.
 
 ---
 
