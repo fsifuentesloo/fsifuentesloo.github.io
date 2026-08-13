@@ -36,16 +36,17 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 
 ### 2. Multi-Entity Transaction & Refund Tracking Dashboard
 * **Scope:** 40 to 60 Global Subsidiaries
-* **Objective:** Standardize transaction visibility, streamline incoming transaction tracking (including customer refunds and intercompany transfers), and automate processing workflows.
+* **Objective:** Centralize intake for banking transaction requests (customer refunds and internal transfers), eliminate email processing bottlenecks, and automate tracking workflows.
 
 #### ⚠️ The Challenge
-* **Data Fragmentation:** Gathering transaction logs across dozens of global entities created operational silos and heavy manual data entry.
-* **Delayed Visibility:** Tracking variations in initial deposits, cross-border internal movements, and refund requests manually led to processing bottlenecks and reporting delays.
+* **Unstructured Email Intake:** Treasury received high volumes of transaction requests across 40–60 subsidiaries via unstructured emails with inconsistent formats and missing data fields.
+* **Operational Friction & Risk:** Manually re-keying payment details from email threads into tracking sheets created processing bottlenecks, delayed execution, and increased human error risk.
 
 #### 🛠️ The Solution
-* **Treasury Dashboard Integration:** Developed a centralized treasury dashboard to capture transaction values, status updates, and execution dates seamlessly.
-* **Automated Core Tracking:** Integrated customized macros to instantly ingest, reconcile, and display customer refunds and internal transactions.
+* **Centralized Intake & Parsing Engine:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
+* **Automated Workflow Tracking:** Integrated macro tools to instantly log, reconcile, and monitor the lifecycle of customer refunds and internal transfers from request to completion.
 
 #### 📈 Business Impact
-* **Streamlined Operations:** Transformed slow, manual data compilation into a dynamic transaction tracking and reconciliation system.
-* **Fluid Bank-Subsidiary Communication:** Established a standardized verification flow, creating an optimal data loop between corporate treasury, internal subsidiaries, and partner banks.
+* **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
+* **Zero Input Errors:** Programmatic validation ensured all banking data was complete and verified before processing, preventing delayed or failed transactions.
+* **Full Workflow Visibility:** Established a clear, real-time tracking trail for corporate treasury, local subsidiaries, and accounting teams.
