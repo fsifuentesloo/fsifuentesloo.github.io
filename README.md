@@ -41,8 +41,8 @@ Expert at identifying manual operational bottlenecks and building automated VBA 
 * **Operational Friction & Risk:** Manually re-keying payment details from email threads into tracking sheets created processing bottlenecks, delayed execution, and increased human error risk.
 
 #### 🛠️ The Solution
-* **Centralized Macro-Based Intake:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
-* **Automated Workflow Logging:** Integrated script logic to automatically assign tracking IDs and update status logs.
+* **Centralized Treasury Dashboard:** Implemented a standardized dashboard to consolidate incoming transaction requests from local entities into a single, structured view.
+* **Request Status Tracking:** Structured the dashboard to monitor request lifecycles and provide immediate visibility into pending, active, and completed funding items.
 
 #### 📈 Business Impact
 * **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
