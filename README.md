@@ -10,7 +10,7 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 
 ---
 
-## 🛠️ Featured Treasury Projects
+## 🛠️ Featured Treasury Projects 2025 - 2026
 
 ### 1. Global Bulk Payment Automation & Control Framework
 * **Account Scope:** Citi-US-USD Corporate Account
