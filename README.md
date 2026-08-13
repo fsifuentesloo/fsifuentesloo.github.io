@@ -34,18 +34,18 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 
 ---
 
-### 2. Multi-Entity Liquidity Reporting & Dashboard Transformation
-*   **Scope:** 40 to 60 Global Subsidiaries
-*   **Objective:** Standardize cash visibility, streamline incoming transaction tracking (including customer refunds and internal transfers), and automate cash positioning timelines.
+### 2. Multi-Entity Transaction & Refund Tracking Dashboard
+* **Scope:** 40 to 60 Global Subsidiaries
+* **Objective:** Standardize transaction visibility, streamline incoming transaction tracking (including customer refunds and intercompany transfers), and automate processing workflows.
 
 #### ⚠️ The Challenge
-*   **Data Fragmentation:** Gathering real-time cash balances and transaction logs from dozens of global entities created heavy data silos.
-*   **Delayed Visibility:** Tracking variations in initial deposits, cross-border internal movements, and refund requests manually led to reporting delays.
+* **Data Fragmentation:** Gathering transaction logs across dozens of global entities created operational silos and heavy manual data entry.
+* **Delayed Visibility:** Tracking variations in initial deposits, cross-border internal movements, and refund requests manually led to processing bottlenecks and reporting delays.
 
 #### 🛠️ The Solution
-*   **Treasury Dashboard Integration:** Developed a centralized treasury dashboard to capture transaction values, liquidity data, and execution dates seamlessly.
-*   **Automated Core Tracking:** Integrated customized macros to instantly ingest, reconcile, and display customer refunds and internal transactions.
+* **Treasury Dashboard Integration:** Developed a centralized treasury dashboard to capture transaction values, status updates, and execution dates seamlessly.
+* **Automated Core Tracking:** Integrated customized macros to instantly ingest, reconcile, and display customer refunds and internal transactions.
 
 #### 📈 Business Impact
-*   **Real-Time Cash Positioning:** Transformed slow, reactive data compilation into a highly dynamic liquidity monitoring tool.
-*   **Fluid Bank-Subsidiary Communication:** Established a standardized verification flow, creating an optimal data loop between corporate treasury, internal subsidiaries, and partner banks.
+* **Streamlined Operations:** Transformed slow, manual data compilation into a dynamic transaction tracking and reconciliation system.
+* **Fluid Bank-Subsidiary Communication:** Established a standardized verification flow, creating an optimal data loop between corporate treasury, internal subsidiaries, and partner banks.
