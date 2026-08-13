@@ -18,7 +18,7 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 #### ⚠️ The Challenge
 * **Manual Bottlenecks:** Treasury operations required the manual execution of dozens of individual high-value transaction requests monthly across dozens of international jurisdictions.
 * **Operational Risk:** Manual data entry into banking portals increased exposure to human error, typos, or processing delays on significant capital flows ($8.5M+ USD).
-* **Audit Fragility:** Fragmented transactional trails made end-to-end tracing slow and labor-intensive.
+* **Audit & Traceability Gaps:** Fragmented transactional trails made end-to-end tracing slow and labor-intensive.
 
 #### 🛠️ The Solution
 * **Macro-Based Data Consolidation:** Built an Excel VBA macro that automatically pulls, cleans, and formats payment requests from a standardized treasury intake template.
@@ -26,8 +26,8 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 * **Bank File Output:** Automated the creation of bank-formatted batch files ready for direct upload into the Citi payment portal.
 
 #### 📈 Business Impact
-* **Efficiency:** Transformed the execution of **40 individual payments totaling $8.5M USD** from hours of manual portal entry into an automated batch upload completed in minutes.
-* **Risk Mitigation:** Achieved a zero operational error rate on major international disbursements by enforcing programmatic pre-validation on all beneficiary records prior to bank execution.
+* **Efficiency:** Transformed the execution of **40 individual payments totalling $8.5M USD** from hours of manual portal entry into an automated batch upload completed in minutes.
+* **Risk Mitigation:** Achieved a zero operational error rate on major international disbursements by enforcing automated data validation on all beneficiary records prior to bank execution.
 * **Strengthened Controls:** Standardized the workflow, providing internal and external auditors with an exact, tamper-proof trace from source template to bank settlement.
 
 ---
@@ -41,9 +41,9 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 * **Operational Friction & Risk:** Manually re-keying payment details from email threads into tracking sheets created processing bottlenecks, delayed execution, and increased human error risk.
 
 #### 🛠️ The Solution
-* **Centralized Intake & Parsing Engine:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
+* **Centralized Macro-Based Intake:** Built a standardized Treasury Dashboard and macro logic to ingest, validate, and structure transaction requests from local entities into a single repository.
 
 #### 📈 Business Impact
 * **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
-* **Zero Input Errors:** Programmatic validation ensured all banking data was complete and verified before processing, preventing delayed or failed transactions.
+* **Error Elimination:** Automated pre-checks ensured required banking fields were fully validated prior to processing, preventing returned or delayed payments.
 * **Full Workflow Visibility:** Established a clear, real-time tracking trail for corporate treasury, local subsidiaries, and accounting teams.
