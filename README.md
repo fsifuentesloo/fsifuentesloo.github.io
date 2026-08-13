@@ -34,17 +34,17 @@ Expert at identifying manual operational bottlenecks and building automated VBA 
 
 ### 2. Multi-Entity Transaction & Refund Tracking Dashboard
 * **Scope:** 40 to 60 Global Subsidiaries
-* **Objective:** Centralize intake for banking transaction requests (customer refunds and internal transfers), eliminate email processing bottlenecks, and automate tracking workflows.
-
+* **Objective:** Centralize visibility for banking transaction requests (customer refunds and internal transfers), eliminate email processing bottlenecks, and streamline request tracking across entities.
+  
 #### ⚠️ The Challenge
 * **Unstructured Email Intake:** Treasury received high volumes of transaction requests across 40–60 subsidiaries via unstructured emails with inconsistent formats and missing data fields.
-* **Operational Friction & Risk:** Manually re-keying payment details from email threads into tracking sheets created processing bottlenecks, delayed execution, and increased human error risk.
+* **Operational Friction:** Manually sorting through email threads to identify and verify pending requests created processing bottlenecks and delayed execution.
 
 #### 🛠️ The Solution
 * **Centralized Treasury Dashboard:** Implemented a standardized dashboard to consolidate incoming transaction requests from local entities into a single, structured view.
 * **Request Status Tracking:** Structured the dashboard to monitor request lifecycles and provide immediate visibility into pending, active, and completed funding items.
 
 #### 📈 Business Impact
-* **Eliminated Email Bottlenecks:** Replaced fragmented, multi-format email requests with a standardized automated intake model, drastically cutting processing time.
-* **Error Elimination:** Automated pre-checks ensured required banking fields were fully validated prior to processing, preventing returned or delayed payments.
-* **Full Workflow Visibility:** Established a clear, real-time tracking trail for corporate treasury, local subsidiaries, and accounting teams.
+* **Eliminated Email Bottlenecks:** Replaced fragmented email threads with a single view for incoming requests, significantly reducing review time.
+* **Improved Data Accuracy:** Standardized required intake fields so requests were submitted with complete banking details before processing.
+* **Full Workflow Visibility:** Established clear, centralized tracking for corporate treasury, local subsidiaries, and accounting teams.
