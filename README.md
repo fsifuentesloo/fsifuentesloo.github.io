@@ -21,9 +21,9 @@ Expert at identifying manual operational bottlenecks and engineering robust, aut
 * **Audit Fragility:** Fragmented transactional trails made end-to-end tracing slow and labor-intensive.
 
 #### 🛠️ The Solution
-* **Data Consolidation Engine:** Programmed a secure macro solution to automatically aggregate, clean, and format payment requests from a standardized Treasury template.
-* **Pre-Transmission Validation:** Built data-integrity verification into the script logic to validate beneficiary bank account details prior to banking portal upload.
-* **Batch File Generation:** Automated the output of secure, bank-compliant bulk payment files seamlessly accepted by Citi for batch processing.
+* **Macro-Based Data Consolidation:** Built an Excel VBA macro that automatically pulls, cleans, and formats payment requests from a standardized treasury intake template.
+* **Built-in Account Validation:** Added automated validation rules to check beneficiary bank details, routing codes, and required fields before file generation.
+* **Bank File Output:** Automated the creation of bank-formatted batch files ready for direct upload into the Citi payment portal.
 
 #### 📈 Business Impact
 * **Efficiency:** Transformed the execution of **40 individual payments totaling $8.5M USD** from hours of manual portal entry into an automated batch upload completed in minutes.
