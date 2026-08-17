@@ -3,13 +3,6 @@
 
 ---
 
-## 🚀 Professional Overview
-Senior treasury professional with extensive international experience managing global liquidity, corporate banking portals, and multi-entity funding structures. 
-
-Expert at identifying manual operational bottlenecks and building automated VBA tools to streamline treasury operations to mitigate financial risk and accelerate audit readiness.
-
----
-
 ### 1. Global Bulk Payment Automation & Control Framework
 * **Account Scope:** Citi-US-USD Corporate Account
 * **Volume & Scale:** Executed **40 cross-border/domestic transactions** totaling **~$8.5M USD** across global subsidiaries in a single automated batch run.
